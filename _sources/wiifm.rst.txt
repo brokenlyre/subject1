@@ -17,3 +17,5 @@ Reason 3
 --------
 
 Magic
+
+You will learn something really good in :ref:`subject1_lesson1_Example1`.
