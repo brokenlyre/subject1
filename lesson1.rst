@@ -3,6 +3,8 @@ Lesson One
 
 This is where you would learn a lot of things
 
+.. _subject1_lesson1_Example1:
+
 Example 1
 ---------
 
